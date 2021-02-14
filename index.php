@@ -21,7 +21,7 @@ session_start();
 
     <form action="zaloguj.php" method="post">
 
-        <p>Hasło</p>
+        <p>Login</p>
         <input type="text" name="login"/>
         <br/><br/>
         <p>Hasło</p>
